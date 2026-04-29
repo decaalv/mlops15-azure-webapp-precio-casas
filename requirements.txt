@@ -1,6 +1,7 @@
 # Flask & Web
 flask>=2.3.3
 flask-cors>=4.0.0
+gunicorn>=20.1.0
 
 # Data Processing
 numpy>=1.26.0
